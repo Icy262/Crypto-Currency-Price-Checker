@@ -1,0 +1,1 @@
+avalanche-2,solana,raydium,theta-token,ecomi,near,rarible,the-graph,polkadot,cardano,ethereum,cosmos,matic-network,chainlink,axie-infinity,chiliz,decentraland,the-sandbox,gala,enjincoin,loopring,quick,fantom,joe,white-whale,terra-luna,loop-token,loopswap,loopnetwork
